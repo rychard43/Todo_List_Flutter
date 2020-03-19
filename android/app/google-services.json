@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "292835972262",
+    "firebase_url": "https://todoflutter-583de.firebaseio.com",
+    "project_id": "todoflutter-583de",
+    "storage_bucket": "todoflutter-583de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292835972262:android:99fd57e71567aed8e29067",
+        "android_client_info": {
+          "package_name": "br.com.rych"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292835972262-laj8r3oamrf0rkolbhsv9jgegnnm0cs2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGwwajG7s9cHi-qQ9KQ22Cx7CDI-c0vb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292835972262-laj8r3oamrf0rkolbhsv9jgegnnm0cs2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
